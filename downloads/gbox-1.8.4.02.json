@@ -1,0 +1,23 @@
+{
+  "name": "GBox",
+  "package_name": "com.gbox.android",
+  "version_name": "1.8.4.02",
+  "version_code": 1080402,
+  "archive_filename": "GBox-1.8.4.02-official.apk",
+  "upstream_filename": "GBox-1.8.4.02-1080402-7899902-website.apk",
+  "source_page": "https://www.gboxlab.com/",
+  "source_url": "https://agile-files.gboxlab.com/GBox-1.8.4.02-1080402-7899902-website.apk",
+  "source_checked_date": "2026-10-18",
+  "source_release_date": "2026-09-22",
+  "size_bytes": 124361684,
+  "sha256": "e19f71b249ae190067c52de84c586696315b8e305192c56710961fa72334f5ad",
+  "signing_certificate_sha256": "2f1a26c7225d085cde5267dc91556dd2c7d19bdc8cffee58e95bbfd39ac697ae",
+  "signature_schemes_verified": ["v1", "v2"],
+  "native_abis": ["arm64-v8a", "armeabi-v7a"],
+  "modified": false,
+  "resigned": false,
+  "archive_scope": "owner_personal_private_archive",
+  "public_redistribution_permission": "not_obtained",
+  "terms_url": "https://www.gboxlab.com/agreement/terms_service.html",
+  "privacy_policy_url": "https://www.gboxlab.com/agreement/private_policy.html"
+}
