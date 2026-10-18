@@ -9,7 +9,7 @@
 
 ## 公开下载范围
 
-[v1.0.1 Release](https://github.com/JiayuStudio/stepx-neo-gbox-guide/releases/tag/v1.0.1) 提供离线教程、来源 JSON 和校验文件。GBox APK 从官网取得；旧私有审阅版镜像已经移除。见 [第三方声明](../THIRD_PARTY_NOTICES.md)。
+[v1.0.2 Release](https://github.com/JiayuStudio/stepx-neo-gbox-guide/releases/tag/v1.0.2) 提供离线教程、来源 JSON 和校验文件。GBox APK 从官网取得。见 [第三方声明](../THIRD_PARTY_NOTICES.md)。
 
 下表保留作者所用官方包的准确身份，供读者比对官网下载文件。
 
@@ -25,5 +25,3 @@
 | ABI | `arm64-v8a`、`armeabi-v7a` |
 
 机器可读信息在 [gbox-1.8.4.02.json](gbox-1.8.4.02.json)，校验文件在 [SHA256SUMS](SHA256SUMS)。改文件名未改变 APK 内容，没有改包名、修改代码或重签名。
-
-APK 校验是来源和完整性检查，不是软件安全审计。本仓库没有将 Google 原生三个 APK、失败改包、用户代理工具或个人配置打包成所谓“一键套件”。
