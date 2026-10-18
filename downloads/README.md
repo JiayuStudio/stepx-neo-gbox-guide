@@ -7,9 +7,11 @@
 
 查询日期为 2026-10-18；当时官网稳定版为 1.8.4.02，标注更新日期 2026-09-22。后续新版本需单独核验，不能用本文的校验值判断另一版本。
 
-## 私有归档
+## 公开下载范围
 
-作者个人私有归档位于 [v1.0.0 Release](https://github.com/JiayuStudio/stepx-neo-gbox-guide/releases/tag/v1.0.0)，需要仓库读取权限。APK 不存入 Git 历史。公开再分发未获授权，见 [第三方声明](../THIRD_PARTY_NOTICES.md)。
+[v1.0.1 Release](https://github.com/JiayuStudio/stepx-neo-gbox-guide/releases/tag/v1.0.1) 提供离线教程、来源 JSON 和校验文件。GBox APK 从官网取得；旧私有审阅版镜像已经移除。见 [第三方声明](../THIRD_PARTY_NOTICES.md)。
+
+下表保留作者所用官方包的准确身份，供读者比对官网下载文件。
 
 | 字段 | 值 |
 | --- | --- |

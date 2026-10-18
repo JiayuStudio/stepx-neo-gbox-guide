@@ -9,7 +9,7 @@ import shutil
 import subprocess
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "v1.0.0"
+VERSION = "v1.0.1"
 
 
 def sha256(path):
